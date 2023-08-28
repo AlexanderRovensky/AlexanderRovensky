@@ -5,7 +5,7 @@
 
 
 <div id="header", align="center">
-  <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif"/>
+  <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="200"/>
 </div>
 
 <div id="badges", align="center">
