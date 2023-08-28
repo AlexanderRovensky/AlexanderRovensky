@@ -16,7 +16,7 @@
    <a href="https://t.me/al26aleksandr">
      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="sanya.rovenscky@yandex.ru">
+   <a href="mailto:sanya.rovenscky@yandex.ru">
   <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
