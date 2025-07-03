@@ -42,5 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/AlexanderRovensky/Pet_project-The_influence_of_weather_on_the_collision_of_birds_with_airplanes/blob/main/icons/%D0%B4%D1%80%D0%BE%D0%B2%20%D0%B8%D0%BE.png" width="40" height="40"/>&nbsp; 
+    
 </div>
